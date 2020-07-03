@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+    <texteditor>vim</texteditor>
+    <fileformats>everything</fileformats>
+    <encoding>ANSI; UTF</encoding>
+    <hasintellisense>false</hasintellisense>
+    <hasplugins>false</hasplugins>
+    <cancompile>false</cancompile>
+</root>

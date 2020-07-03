@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+    <texteditor>Sublime</texteditor>
+    <fileformats>everything</fileformats>
+    <encoding>ANSI; UTF;</encoding>
+    <hasintellisense>true</hasintellisense>
+    <hasplugins>true</hasplugin>
+    <cancompile>false</cancompile>
+</root>

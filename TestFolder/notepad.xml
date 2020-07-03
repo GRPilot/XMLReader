@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+    <texteditor>notepad</texteditor>
+    <fileformats>txt</fileformats>
+    <encoding>ANSI</encoding>
+    <hasintellisense>false</hasintellisense>
+    <hasplugins>true</hasplugins>
+    <cancompile>true</cancompile>
+</root>
