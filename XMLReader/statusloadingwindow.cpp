@@ -1,5 +1,5 @@
 #include "statusloadingwindow.hpp"
-#include "ui_StatusLoadingWindow.h"
+#include "ui_statusloadingwindow.h"
 
 StatusLoadingWindow::StatusLoadingWindow(QWidget *parent) :
     QWidget(parent),

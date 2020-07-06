@@ -22,7 +22,11 @@ QVariant TableModel::data(const QModelIndex& index, int role) const {
 
     switch (role) {
         case Qt::DisplayRole:
+        case Qt::EditRole:
             return mData.at(index.row()).at(index.column());
+
+        default:
+            return {};
     }
 
     return {};
